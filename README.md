@@ -1,4 +1,4 @@
-## Overview of PetBasket:
+## Overview:
 PetBasket is a web application designed to help match users with their ideal pet! It's free to join, and users may search for pets in their area that are available for adoption based on type (dog or cat), age, and gender. It also features a Classifieds section where users can upload a photo and information of pet(s) they have available for adoption.
 
 ## The Team:
